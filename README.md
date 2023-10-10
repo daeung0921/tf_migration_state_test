@@ -3,6 +3,7 @@
 - AWS 에 Terraform S3 State 를 TFE, TFC 로 마이그레이션 하기 위한 테스트 코드 (v1.1 이하 버전)
 - v1.1 이상 버전에서는 Remote 대신 Cloud (TFC 의 경우) 를 사용하기 때문에 Local 에 State 를 다운로드 받지 않아도 동작한다.
 - v1.1 이상 버전에서도 아래 가이드한 형태의 마이그레이션도 가능할 것으로 보인다.
+- [테스트 동영상](https://www.dropbox.com/scl/fi/wzjaz185moaew611dbkg7/s3_to_remote.mp4?rlkey=qhlbqx5gjyi12nxgaaykncote&dl=0)
  
 ## SETUP
 
